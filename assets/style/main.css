@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  list-style: none;
+}
+
+body {
+  background-color: #2a7eb2;
+}
+
+.container {
+  padding: 1rem;
+}
+
+/*# sourceMappingURL=main.css.map */

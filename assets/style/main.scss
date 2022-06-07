@@ -1,0 +1,9 @@
+@import "variables.scss";
+@import "mixin.scss";
+
+body {
+  background-color: $primary-color;
+}
+.container {
+  padding: 1rem;
+}
