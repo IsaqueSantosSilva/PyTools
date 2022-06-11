@@ -55,6 +55,10 @@ body {
   transition: 0.3s;
   cursor: pointer;
 }
+.main-container .box .icon-box {
+  display: flex;
+  justify-content: center;
+}
 .main-container .box:hover {
   box-shadow: 3px 3px 10px #000;
 }
